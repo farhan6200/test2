@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("My First web App")
 
-st.write("Hello, I dont know what to write here. And I dont know why I am here. what tf am i doing. i should study...")
+st.write("Hello, I dont know what to write here. And I dont know why I am here. what am i doing. i should study...")
 
 st.image("https://i.imgur.com/e9qWzqL.jpeg", caption="This is a cat")
 st.write("yes it is a cat")
